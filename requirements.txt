@@ -16,3 +16,11 @@ seaborn==0.13.2
 six==1.17.0
 threadpoolctl==3.6.0
 tzdata==2026.1
+
+# Ключевые библиотеки проекта (версии уточнить через `pip freeze` в рабочем окружении)
+catboost
+lightgbm
+nltk
+optuna
+phik
+SQLAlchemy
